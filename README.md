@@ -26,7 +26,7 @@ AI 코딩 에이전트에 주입할 `.ruler/` 규칙 세트를 브라우저에�
  
 ### 👀 Nullong2 Viewer
  
-`nullong2` 관련 데이터를 브라우저에서 확인하고 탐색할 수 있는 뷰어
+로컬에 있는 마크다운 · JSON · YAML · 텍스트를 폴더째 열어 읽는 정적 웹 뷰어
  
 - 🔗 Website: https://nullong2viewer.vercel.app/
 - 📦 GitHub: https://github.com/HeathChang/nullong2_viewer
