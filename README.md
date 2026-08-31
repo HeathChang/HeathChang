@@ -24,7 +24,7 @@ AI 코딩 에이전트에 주입할 `.ruler/` 규칙 세트를 브라우저에�
  
 ## 🛠️ Utils
  
-### 👀 Nullong2 Viewer
+### 👀 Markdown, JSON, YAML Viewer
  
 로컬에 있는 마크다운 · JSON · YAML · 텍스트를 폴더째 열어 읽는 정적 웹 뷰어
  
